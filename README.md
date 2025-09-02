@@ -6,11 +6,11 @@ A React + TypeScript web app powered by Vite and styled with Tailwind CSS.
 
 ## Tech Stack
 
-- **Framework:** React 18
-- **Language:** TypeScript 5
-- **Build Tool:** Vite 5
-- **Styling:** Tailwind CSS 3, PostCSS, Autoprefixer
-- **Linting:** ESLint 8, @typescript-eslint
+- **Framework:** React
+- **Language:** TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS, PostCSS, Autoprefixer
+- **Linting:** ESLint, @typescript-eslint
 
 ## Full Project Structure
 
@@ -46,7 +46,7 @@ fresh-berry/
 ## Installation Guide
 
 **Prerequisites:**
-- Node.js 18+ (Vite 5 requires Node 18+)
+- Node.js (Vite requires Node )
 - npm (or yarn/pnpm)
 
 **Setup Steps:**
